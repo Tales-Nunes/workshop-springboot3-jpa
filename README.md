@@ -1,4 +1,4 @@
-# Big Game Survey 
+# workshop-springboot3-jpa
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Tales-Nunes/workshop-springboot3-jpa/blob/main/LICENSE) 
 
 # Sobre o projeto
